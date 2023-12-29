@@ -11,6 +11,8 @@ tx
 ty
 tz
 mesh (tx, ty, tz);
+%surf (tx, ty, tz);
+axis([-4 4 -4 4 -15 15]);
 set(gca, "linewidth", 4, "fontsize", 40)
 xlabel ("tx");
 ylabel ("ty");
