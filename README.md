@@ -17,3 +17,6 @@
   - Steps to run
     - Install Octave
     - Run "LocalMaxMin" on Octave prompt
+**Fourier Series generator (this is an octave script)**
+  - pkg install -forge symbolic
+  - pip3 install sympy
