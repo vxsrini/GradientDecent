@@ -19,5 +19,5 @@
     - Run "LocalMaxMin" on Octave prompt
       
 **Fourier Series generator (this is an octave script)**
-  - pkg install -forge symbolic
-  - pip3 install sympy
+  - "pkg install -forge symbolic" on octave prompt
+  - "pip3 install sympy" on unix command prompt
